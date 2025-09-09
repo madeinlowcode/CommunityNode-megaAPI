@@ -1,0 +1,9 @@
+export { getGroupsProperties } from './getGroups';
+export { detailsGroupProperties } from './detailsGroup';
+export { createGroupProperties } from './createGroup';
+export { sendMessageGroupProperties } from './sendMessageGroup';
+export { sendMediaUrlGroupProperties } from './sendMediaUrlGroup';
+export { sendMediaBase64GroupProperties } from './sendMediaBase64Group';
+export { addParticipantsProperties } from './addParticipants';
+export { removeParticipantsProperties } from './removeParticipants';
+export { leaveGroupProperties } from './leaveGroup';
